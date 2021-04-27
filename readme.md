@@ -32,6 +32,16 @@
 
 - [Windy](https://www.windy.com/) - Weather map for active sports.
 
+### Networks:
+
+- Submarine communications:
+  - [Infrapedia](https://www.infrapedia.com/app)
+  - [TeleGeography Submarine Cable Map](https://www.submarinecablemap.com/)
+  - [Greg's Cable Map](https://cablemap.info/_default.aspx)
+- [Traceroute-online](https://traceroute-online.com/) - MTR visualisation on map.
+- [OII Network Visualisation](http://thyme.apnic.net/BGP/) - Map of publically viewable AS Paths between ASNs.
+
+
 ### Other:
 
 - [LiveUaMap](https://liveuamap.com) - Ongoing wars on the map.
