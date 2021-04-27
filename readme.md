@@ -7,45 +7,46 @@
 ## Services and websites
 ### Sea:
 
-- [MarineTraffic](https://www.marinetraffic.com) - Information about sea craft in real time based on radio signals
-- [VesselFinder](https://www.vesselfinder.com) - Information about sea craft in real time based on radio signals
+- Realtime sea craft monitoring:
+  - [MarineTraffic](https://www.marinetraffic.com)
+  - [VesselFinder](https://www.vesselfinder.com)
 - [OpenSeaMap](http://map.openseamap.org) - Maritime analog of OSM
 
 ### Air:
 
-- [FlightRadar24](https://www.flightradar24.com) - Information about aircraft in real time based on radio signals
-- [Restricted airspace for drones](https://pilothub.ru/airmap) [Russian]
-- [Safe Airspace](https://safeairspace.net/) - Conflict Zone & Risk Database
+- Realtime aircraft monitoring:
+  - [FlightRadar24](https://www.flightradar24.com)
+  - [AirNav RadarBox](https://www.radarbox.com)
+  - [Plane Finder](https://planefinder.net/)
+- [Restricted airspace for drones](https://pilothub.ru/airmap) *[russian]*
+- [Safe Airspace](https://safeairspace.net/) - Conflict Zone & Risk Database.
 
 ### Retro:
 
-- [pastvu.com](https://pastvu.com/) - Retro photos around the world
-- [retromap.ru](http://retromap.ru/) - [Russian] Retro maps, mostly of Russia
-- [warfly.ru](http://warfly.ru/) -  [Russian] WWII Aerial Photos and Maps
+- [pastvu.com](https://pastvu.com/) - Retro photos around the world.
+- [retromap.ru](http://retromap.ru/) - Retro maps, mostly of Russia. *[russian]*
+- [warfly.ru](http://warfly.ru/) -  WWII Aerial Photos and Maps. *[russian]*
 
 
 ### Weather:
 
-- [Windy](https://www.windy.com/) - map of winds and tides
+- [Windy](https://www.windy.com/) - Weather map for active sports.
 
 ### Other:
 
-- [OpenTopoMap](https://opentopomap.org)
-- [LiveUaMap](https://liveuamap.com) - modern conflicts on map
-- [Hoodmaps](https://hoodmaps.com/) - crowdsourced map to navigate citie based on hipsters, tourists, rich, normies, suits and uni areas
-- [Radio Garden](http://radio.garden/) - Music from all over the world
-- [Strava Heatmap](https://www.strava.com/heatmap) - Heatmap based on activity of Strava users
-- [Wikimapia](https://wikimapia.org/) - online editable map - you can describe any place on Earth
-- [Google Earth Timelapse](https://earthengine.google.com/timelapse/) - global, zoomable video that lets you see how the Earth has changed over the past 37 years
+- [LiveUaMap](https://liveuamap.com) - Ongoing wars on the map.
+- [Hoodmaps](https://hoodmaps.com/) - crowdsourced map to navigate citie based on hipsters, tourists, rich, normies, suits and uni areas.
+- [Radio Garden](http://radio.garden/) - Music from all over the world.
+- [Strava Heatmap](https://www.strava.com/heatmap) - Heatmap based on activity of Strava users.
+- [Wikimapia](https://wikimapia.org/) - Online editable map - you can describe any place on Earth.
+- [Google Earth Timelapse](https://earthengine.google.com/timelapse/) - Global, zoomable video that lets you see how the Earth has changed over the past 37 years.
 
 ## Software
-see more at [awesome-gis](https://github.com/sshuair/awesome-gis)
+*see more at [awesome-gis](https://github.com/sshuair/awesome-gis)*
 
-- [Traccar](https://www.traccar.org/) - open source, self-hosted GPS tracking platform
-
-- [Leaflet](https://leafletjs.com/) - powerful JS library for creating your own maps
-
-- [Open Source Routing Machine](http://project-osrm.org/) - Modern C++ routing engine for shortest paths in road networks
+- [Traccar](https://www.traccar.org/) - Open source, self-hosted GPS tracking platform. `Apache-2.0` `Java`
+- [Leaflet](https://leafletjs.com/) - Powerful open-source JavaScript library for mobile-friendly interactive maps. `BSD-2-Clause` `Javascript`
+- [Open Source Routing Machine](http://project-osrm.org/) - Routing engine for shortest paths in road networks. `BSD-2-Clause` `C++`
 
 
 ## Contribute
