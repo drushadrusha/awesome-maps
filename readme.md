@@ -1,8 +1,18 @@
 # Awesome Maps [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > List of awesome map websites, services and software.
-> Work in progress.
 
+## Contents
+
+- [Services and websites](#services-and-websites)
+  - [Sea](#sea)
+  - [Air](#air)
+  - [Retro](#retro)
+  - [Weather](#weather)
+  - [Telecommunications](#telecommunications)
+  - [Other](#other)
+- [Software](#software)
+- [Contribute](#contribute)
 
 ## Services and websites
 ### Sea
@@ -32,7 +42,7 @@
 
 - [Windy](https://www.windy.com/) - Weather map for active sports.
 
-### Networks
+### Telecommunications
 
 - Submarine communications:
   - [Infrapedia](https://www.infrapedia.com/app)
@@ -61,4 +71,4 @@
 
 ## Contribute
 
-Contributions welcome!
+Contributions welcome! Read [contribution guidelines](contribution.md).
