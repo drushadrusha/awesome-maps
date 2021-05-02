@@ -28,7 +28,7 @@
   - [FlightRadar24](https://www.flightradar24.com)
   - [AirNav RadarBox](https://www.radarbox.com)
   - [Plane Finder](https://planefinder.net/)
-- [Restricted airspace for drones](https://pilothub.ru/airmap) `russian`.
+- [Pilothub.ru Airmap](https://pilothub.ru/airmap) - Restricted airspace for drones `russian`.
 - [Safe Airspace](https://safeairspace.net/) - Conflict Zone & Risk Database.
 
 ### Retro
