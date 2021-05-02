@@ -1,4 +1,4 @@
-# Awesome Maps 
+# Awesome Maps [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > List of awesome map websites, services and software.
 > Work in progress.
