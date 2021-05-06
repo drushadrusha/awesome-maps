@@ -40,7 +40,8 @@
 
 ### Weather
 
-- [Windy](https://www.windy.com/) - Weather map for active sports.
+- [Windy](https://www.windy.com/) - Weather radar, wind and waves forecast for kiters, surfers, paragliders, pilots, sailors and anyone else.
+- [Air-quality.com](https://air-quality.com) - Real-time Air Quality Index(AQI).
 
 ### Telecommunications
 
