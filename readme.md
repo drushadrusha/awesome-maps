@@ -10,6 +10,7 @@
   - [Energy](#energy)
   - [Retro](#retro)
   - [Weather](#weather)
+  - [Wars and weapons](#wars-and-weapons)
   - [Telecommunications](#telecommunications)
   - [Art](#art)
   - [Other](#other)
