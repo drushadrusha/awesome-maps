@@ -105,4 +105,4 @@
 
 ## Contribute
 
-Contributions welcome! Read [contribution guidelines](contribution.md).
+Contributions welcome! Read [contribution guidelines](contributing.md).
