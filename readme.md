@@ -3,7 +3,7 @@
     
 </div>
 
-# Awesome Maps [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![awesome-lint](https://github.com/drushadrusha/awesome-maps/actions/workflows/main.yml/badge.svg)
+# Awesome Maps [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![awesome-lint](https://github.com/drushadrusha/awesome-maps/actions/workflows/main.yml/badge.svg)](https://github.com/drushadrusha/awesome-maps/actions/workflows/main.yml)
 
 
 > List of awesome map websites, services and software.
@@ -13,11 +13,13 @@
 - [Services and websites](#services-and-websites)
   - [Sea](#sea)
   - [Air](#air)
+  - [Railway](#railway)
   - [Energy](#energy)
   - [Retro](#retro)
   - [Wars and weapons](#wars-and-weapons)
   - [Weather](#weather)
   - [Telecommunications](#telecommunications)
+  - [Cryptocurrencies](#cryptocurrencies)
   - [Art](#art)
   - [Other](#other)
 - [Software](#software)
@@ -41,6 +43,11 @@
   - [Plane Finder](https://planefinder.net/)
 - [Pilothub.ru Airmap](https://pilothub.ru/airmap) - Restricted airspace for drones `russian`.
 - [Safe Airspace](https://safeairspace.net/) - Conflict Zone & Risk Database.
+
+### Railway
+
+- [OpenRailwayMap](https://www.openrailwaymap.org/) - Online map of the world's railway infrastructure, built on OpenStreetMap data.
+- [Raildar](http://raildar.co.uk/radar.html) - Live Map of UK Trains.
 
 ### Energy
 
@@ -73,10 +80,17 @@
   - [Infrapedia](https://www.infrapedia.com/app)
   - [TeleGeography Submarine Cable Map](https://www.submarinecablemap.com/)
   - [Greg's Cable Map](https://cablemap.info/_default.aspx)
-- [Traceroute-online](https://traceroute-online.com/) - MTR visualization on the map.
+- [Traceroute-online](https://traceroute-online.com/) - Traceroute visualization on the map.
 - [OII Network Visualisation](http://thyme.apnic.net/BGP/) - Map of publically viewable AS Paths between ASNs.
 - [GSM Security Map](https://gsmmap.org/) - Protection capabilities of mobile networks.
 - [GSMA Network Coverage Maps](https://www.gsma.com/coverage/)
+- [WiGLE](https://wigle.net/) - Wireless Network Mapping.
+
+### Cryptocurrencies
+- [Coinmap](https://coinmap.org) - Crypto ATMs and merchants of the world.
+- [Bitcoin Mining Map](https://cbeci.org/mining_map) - Geographic distribution of global Bitcoin hashrate.
+- [Bitnodes](https://bitnodes.io) - Map of reachable nodes of Bitcoin.
+- [Etherium Nodes Map](https://matallo.carto.com/builder/e70677d5-1111-40a8-9e19-f27da227a55c/embed) - Etherium nodes on world map.
 
 ### Art
 - [Radio Garden](http://radio.garden/) - Explore live radio rotating the globe.
@@ -91,7 +105,6 @@
 - [Strava Heatmap](https://www.strava.com/heatmap) - Heatmap based on activity of Strava users.
 - [Wikimapia](https://wikimapia.org/) - Online editable map - you can describe any place on Earth.
 - [Google Earth Timelapse](https://earthengine.google.com/timelapse/) - Global, zoomable video that lets you see how the Earth has changed over the past 37 years.
-- [Coinmap](https://coinmap.org) - Crypto ATMs and merchants of the world.
 - [Map Stack by Stamen](http://mapstack.stamen.com) - Free and easy map design instrument.
 
 
@@ -101,6 +114,7 @@
 - [Traccar](https://www.traccar.org/) - Open source, self-hosted GPS tracking platform `Apache-2.0` `Java`.
 - [Leaflet](https://leafletjs.com/) - Powerful open-source JavaScript library for mobile-friendly interactive maps `BSD-2-Clause` `Javascript`.
 - [Open Source Routing Machine](http://project-osrm.org/) - Routing engine for shortest paths in road networks`BSD-2-Clause` `C++`.
+- [Dynmap](https://github.com/webbukkit/dynmap) - Dynamic web maps for Minecraft servers `Apache-2.0` `Java`.
 
 
 ## Contribute
