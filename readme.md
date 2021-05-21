@@ -18,6 +18,7 @@
   - [Retro](#retro)
   - [Wars and weapons](#wars-and-weapons)
   - [Weather](#weather)
+  - [Pollution](#pollution)
   - [Telecommunications](#telecommunications)
   - [Cryptocurrencies](#cryptocurrencies)
   - [Art](#art)
@@ -73,6 +74,11 @@
 
 - [Windy](https://www.windy.com/) - Weather radar, wind and waves forecast for kiters, surfers, paragliders, pilots, sailors and anyone else.
 - [Air-quality.com](https://air-quality.com) - Real-time Air Quality Index(AQI).
+
+### Pollution
+- [Pollution.org](https://www.pollution.org) - Credible, up-to-date datasets on exposures related to modern pollution.
+- [WWF Global Plastic Navigator](https://plasticnavigator.wwf.de/#/en/) - Ocean pollution of plastic on the map.
+- [Light Pollution Map](https://www.lightpollutionmap.info/)
 
 ### Telecommunications
 
