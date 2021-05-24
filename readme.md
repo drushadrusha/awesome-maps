@@ -24,7 +24,6 @@
   - [Art](#art)
   - [Other](#other)
 - [Software](#software)
-- [Contribute](#contribute)
 
 ## Services and websites
 ### Sea
