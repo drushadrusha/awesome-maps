@@ -3,7 +3,7 @@
     
 </div>
 
-# Awesome Maps [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![awesome-lint](https://github.com/drushadrusha/awesome-maps/actions/workflows/main.yml/badge.svg)](https://github.com/drushadrusha/awesome-maps/actions/workflows/main.yml)
+# Awesome Maps [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 
 > List of awesome map websites, services and software.
@@ -24,7 +24,6 @@
   - [Art](#art)
   - [Other](#other)
 - [Software](#software)
-- [Contribute](#contribute)
 
 ## Services and websites
 ### Sea
