@@ -39,6 +39,7 @@
   - [Plane Finder](https://planefinder.net/)
 - [Pilothub.ru Airmap](https://pilothub.ru/airmap) - Restricted airspace for drones `russian`.
 - [Safe Airspace](https://safeairspace.net/) - Conflict Zone & Risk Database.
+- [SkyVector](https://skyvector.com/) - Aeronautical charts.
 
 ## Railway
 
