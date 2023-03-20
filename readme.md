@@ -108,7 +108,7 @@
 - [Wikimapia](https://wikimapia.org/) - Online editable map - you can describe any place on Earth.
 - [Google Earth Timelapse](https://earthengine.google.com/timelapse/) - Global, zoomable video that lets you see how the Earth has changed over the past 37 years.
 - [Map Stack by Stamen](http://mapstack.stamen.com) - Free and easy map design instrument.
-- [Pinball Map](https://www.pinballmap.com/map) - Short description.
+- [Pinball Map](https://www.pinballmap.com/map) - Open source crowdsourced worldwide map of public pinball machines.
 
 ## Contribute
 
