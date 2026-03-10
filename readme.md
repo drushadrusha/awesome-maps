@@ -65,6 +65,7 @@
 - [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - Mapping mashup that lets you graphically visualize the range and accuracy of many types of missiles.
 - [U.S. Nuclear Weapons Complex](https://www.google.com/maps/d/viewer?mid=16D-GF2of9UXppSRknAN_ApFpHBg&ll=18.729392067744104%2C-101.7937597&z=2) - Map that contains the important locations of the offices, some control centers, mines, mills, plants, laboratories.
 - [LiveUaMap](https://liveuamap.com) - Modern warfare on the map.
+- [Pharos AI](https://conflicts.app) - Real-time open-source intelligence dashboard for conflict tracking with interactive maps, OSINT feeds, and event timelines.
 
 ## Weather
 
