@@ -30,6 +30,7 @@
 - [OpenSeaMap](http://map.openseamap.org) - Open nautical chart, part of OSM database.
 - [OpenNauticalChart](http://opennauticalchart.org) - Free nautical charts for sailing.
 - [Shipmap.org](https://www.shipmap.org) - Visualization of Global Cargo Ships.
+- [Europe Beach Map](https://europebeachmap.com) - Interactive map of 511 European beaches with current sea-water temperatures, sand type and the best season for each.
 
 ## Air
 
