@@ -52,6 +52,7 @@
 - [Filières Nucléaires autour du monde](http://www.leretourdelautruche.com/map/nuke/) - Nuclear sectors around the world `french`.
 - [Open Infrastructure Map](https://openinframap.org/) - View of the world's hidden infrastructure mapped in the OpenStreetMap database.
 - [World Wind Turbine Map](https://turbinemap.wab-s.de) - Worldwide wind turbines and wind farms from OSM.
+- [Bikers.co.uk Fuel Finder](https://bikers.co.uk/fuel-finder) - Live petrol and diesel prices at UK filling stations, from the UK government's statutory open price feed.
 
 ## Retro
 
