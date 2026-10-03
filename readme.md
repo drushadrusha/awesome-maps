@@ -110,6 +110,7 @@
 - [Google Earth Timelapse](https://earthengine.google.com/timelapse/) - Global, zoomable video that lets you see how the Earth has changed over the past 37 years.
 - [Map Stack by Stamen](http://mapstack.stamen.com) - Free and easy map design instrument.
 - [Pinball Map](https://www.pinballmap.com/map) - Open source crowdsourced worldwide map of public pinball machines.
+- [Woofians](https://woofians.com/) - Interactive directory map for finding dog parks, veterinary clinics, groomers, and other dog services across Bulgaria; available in Bulgarian and English.
 
 ## Contribute
 
