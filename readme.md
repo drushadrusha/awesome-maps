@@ -112,6 +112,7 @@
 - [Global Data Tracker](https://globaldatatracker.com/) - Explore country indicators on an interactive globe and map.
 - [Map Stack by Stamen](http://mapstack.stamen.com) - Free and easy map design instrument.
 - [Pinball Map](https://www.pinballmap.com/map) - Open source crowdsourced worldwide map of public pinball machines.
+- [Ceramic Coating Near Me](https://ceramiccoatingshopsnearme.com/locations/austin-texas) - Ceramic-coating shop map for Austin, Texas, with service filters.
 
 ## Contribute
 
