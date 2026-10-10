@@ -71,6 +71,7 @@
 
 - [Windy](https://www.windy.com/) - Weather radar, wind and waves forecast for kiters, surfers, paragliders, pilots, sailors and anyone else.
 - [Air-quality.com](https://air-quality.com) - Real-time Air Quality Index(AQI).
+- [Sunshine Atlas](https://sunshineatlas.com/) - Interactive globe ranking destinations by monthly sunshine hours and climate.
 
 ## Pollution
 - [Pollution.org](https://www.pollution.org) - Credible, up-to-date datasets on exposures related to modern pollution.
