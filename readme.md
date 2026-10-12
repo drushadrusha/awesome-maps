@@ -102,6 +102,8 @@
 - [OpenPianosMap](https://www.mapcontrib.xyz/t/e5c83c-OpenPianosMap) - Open source map of accessible pianos.
 
 ## Other
+
+- [KoreAves](https://koreaves.com/gis/) - Explore source-linked bird occurrence evidence by species and administrative region in South Korea (not a range or population map).
 - [Map1.eu](http://beta.map1.eu) - All-purpose map of the whole Europe in quality close to the printed map's standard.
 - [OpenCampingMap](https://opencampingmap.org/) - Global map of campgrounds based on data from OSM.
 - [McBroken](https://mcbroken.com) - Broken McDonald's ice cream machines in the USA.
