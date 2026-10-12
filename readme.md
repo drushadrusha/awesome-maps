@@ -102,6 +102,7 @@
 - [OpenPianosMap](https://www.mapcontrib.xyz/t/e5c83c-OpenPianosMap) - Open source map of accessible pianos.
 
 ## Other
+- [Discover Alone](https://discoveralone.com/) - Explore historic and overlooked places around Ireland and Britain on an interactive map.
 - [Map1.eu](http://beta.map1.eu) - All-purpose map of the whole Europe in quality close to the printed map's standard.
 - [OpenCampingMap](https://opencampingmap.org/) - Global map of campgrounds based on data from OSM.
 - [McBroken](https://mcbroken.com) - Broken McDonald's ice cream machines in the USA.
