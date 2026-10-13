@@ -59,6 +59,7 @@
 - [retromap.ru](http://retromap.ru/) - Retro maps, mostly of Russia `russian`.
 - [warfly.ru](http://warfly.ru/) -  WWII Aerial Photos and Maps `russian`.
 - [Old Maps Online](https://www.oldmapsonline.org) - Search engine for historical maps.
+- [China Culture Literati Journeys](https://history.walkingchina.com/) - Illustrated GIS audio storymap tracing 5,000 years of ancient Chinese dynasties and philosopher exile journeys.
 
 ## Wars and weapons
 - [NUKEMAP](https://nuclearsecrecy.com/nukemap/) - Mapping mash-up that calculates the effects of the detonation of a nuclear bomb.
