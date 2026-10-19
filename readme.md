@@ -112,6 +112,7 @@
 - [Global Data Tracker](https://globaldatatracker.com/) - Explore country indicators on an interactive globe and map.
 - [Map Stack by Stamen](http://mapstack.stamen.com) - Free and easy map design instrument.
 - [Pinball Map](https://www.pinballmap.com/map) - Open source crowdsourced worldwide map of public pinball machines.
+- [London Tourist Map](https://londontouristmap.com/) - Free interactive map of about 400 London sights, themed maps and day trips.
 
 ## Contribute
 
