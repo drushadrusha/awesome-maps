@@ -112,8 +112,8 @@
 - [Global Data Tracker](https://globaldatatracker.com/) - Explore country indicators on an interactive globe and map.
 - [Map Stack by Stamen](http://mapstack.stamen.com) - Free and easy map design instrument.
 - [Pinball Map](https://www.pinballmap.com/map) - Open source crowdsourced worldwide map of public pinball machines.
+- [Flock Locations](https://flocklocations.com/) - A public map of Flock Safety and ALPR camera locations.
 
 ## Contribute
 
 Contributions welcome! Read [contribution guidelines](contributing.md).
-
