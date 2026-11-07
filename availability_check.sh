@@ -7,7 +7,7 @@ useragent="user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537
 links=($(curl -s https://raw.githubusercontent.com/drushadrusha/awesome-maps/main/readme.md | grep -Eo "(http|https)://[a-zA-Z0-9./?=_%&:-]*"))
 for link in "${links[@]}"
 do
-    if [ "$link" == "https://planefinder.net/" ];then
+    if [ "$link" == "https://planefinder.net/" ] || [ "$link" == "https://mappedchronicles.com/" ];then
         echo "$link does not like being curl'ed :(. Skipping..."
         continue
     fi
