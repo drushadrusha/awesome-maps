@@ -40,6 +40,7 @@
 - [Pilothub.ru Airmap](https://pilothub.ru/airmap) - Restricted airspace for drones `russian`.
 - [Safe Airspace](https://safeairspace.net/) - Conflict Zone & Risk Database.
 - [SkyVector](https://skyvector.com/) - Aeronautical charts.
+- [WhatFliesWhere](https://whatflieswhere.com/from/new-york) - Nonstop flight routes from 3,000+ airports, with airlines and days flown.
 
 ## Railway
 
