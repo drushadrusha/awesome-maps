@@ -112,6 +112,7 @@
 - [Global Data Tracker](https://globaldatatracker.com/) - Explore country indicators on an interactive globe and map.
 - [Map Stack by Stamen](http://mapstack.stamen.com) - Free and easy map design instrument.
 - [Pinball Map](https://www.pinballmap.com/map) - Open source crowdsourced worldwide map of public pinball machines.
+- [GTA 6 Map](https://gta6map.me/) - Interactive fan map of Leonida, the state in Grand Theft Auto VI, with satellite and atlas views and location markers.
 
 ## Contribute
 
