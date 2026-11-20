@@ -112,6 +112,7 @@
 - [Global Data Tracker](https://globaldatatracker.com/) - Explore country indicators on an interactive globe and map.
 - [Map Stack by Stamen](http://mapstack.stamen.com) - Free and easy map design instrument.
 - [Pinball Map](https://www.pinballmap.com/map) - Open source crowdsourced worldwide map of public pinball machines.
+- [Mining Stocks Project Globe](https://www.mining-stocks.com/) - Interactive globe of mining projects worldwide (gold, copper, lithium, uranium and more), searchable by company or project, with the latest studies highlighted.
 
 ## Contribute
 
