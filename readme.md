@@ -112,6 +112,7 @@
 - [Global Data Tracker](https://globaldatatracker.com/) - Explore country indicators on an interactive globe and map.
 - [Map Stack by Stamen](http://mapstack.stamen.com) - Free and easy map design instrument.
 - [Pinball Map](https://www.pinballmap.com/map) - Open source crowdsourced worldwide map of public pinball machines.
+- [World Geography](https://world-geography.com/) - Free interactive 2D and 3D geography map quizzes and historical population/GDP choropleth atlases.
 
 ## Contribute
 
