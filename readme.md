@@ -30,6 +30,7 @@
 - [OpenSeaMap](http://map.openseamap.org) - Open nautical chart, part of OSM database.
 - [OpenNauticalChart](http://opennauticalchart.org) - Free nautical charts for sailing.
 - [Shipmap.org](https://www.shipmap.org) - Visualization of Global Cargo Ships.
+- [Ocean Depth Map](https://depth.hertzmc.com/) - Approximate sea depth under your GPS position or anywhere you tap, on a chart shaded by depth (GEBCO grid, NOAA survey depths in US coastal waters), not for navigation.
 
 ## Air
 
