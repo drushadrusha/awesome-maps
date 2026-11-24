@@ -102,6 +102,7 @@
 - [OpenPianosMap](https://www.mapcontrib.xyz/t/e5c83c-OpenPianosMap) - Open source map of accessible pianos.
 
 ## Other
+- [H1DR4 Incident Map](https://h1dr4.dev/map) - Explore public incident records, including approximate Police.uk locations, in a free browser map.
 - [Map1.eu](http://beta.map1.eu) - All-purpose map of the whole Europe in quality close to the printed map's standard.
 - [OpenCampingMap](https://opencampingmap.org/) - Global map of campgrounds based on data from OSM.
 - [McBroken](https://mcbroken.com) - Broken McDonald's ice cream machines in the USA.
