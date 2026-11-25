@@ -112,6 +112,7 @@
 - [Global Data Tracker](https://globaldatatracker.com/) - Explore country indicators on an interactive globe and map.
 - [Map Stack by Stamen](http://mapstack.stamen.com) - Free and easy map design instrument.
 - [Pinball Map](https://www.pinballmap.com/map) - Open source crowdsourced worldwide map of public pinball machines.
+- [Moolean](https://moolean.onrender.com/en) - Anonymous worldwide mood map. Leave a good or bad mood and one optional line. Glowing dots fade after three hours.
 
 ## Contribute
 
