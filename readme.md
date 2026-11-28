@@ -112,6 +112,7 @@
 - [Global Data Tracker](https://globaldatatracker.com/) - Explore country indicators on an interactive globe and map.
 - [Map Stack by Stamen](http://mapstack.stamen.com) - Free and easy map design instrument.
 - [Pinball Map](https://www.pinballmap.com/map) - Open source crowdsourced worldwide map of public pinball machines.
+- [GeoFramer](https://geoframer.tudorm.eu) - Free, zero-login 1v1 NMPZ geography duel where players spin 360° to frame deceptive street-view angles for their rival.
 
 ## Contribute
 
